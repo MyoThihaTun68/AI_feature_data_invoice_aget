@@ -13,6 +13,7 @@
     "@google/generative-ai": "^0.24.1",
     "@nivo/calendar": "^0.99.0",
     "@supabase/supabase-js": "^2.78.0",
+    "framer-motion": "^12.23.24",
     "gsap": "^3.13.0",
     "lucide-react": "^0.553.0",
     "mammoth": "^1.11.0",

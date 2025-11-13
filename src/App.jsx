@@ -56,7 +56,7 @@ const App = () => {
       {/* --- Pass the 'user' object as a prop to the Sidebar --- */}
       <Sidebar user={user} />
 
-      <main className="flex-1 p-6 overflow-auto">
+      <main className="flex-1 p-6 overflow-auto flex-grow w-full">
         <Outlet />
       </main>
     </div>
